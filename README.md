@@ -1,2 +1,1 @@
-# mod-2solu.io
-Mod-2 solution
+Mod-2 solution https://dkrkv1107.github.io/mod-2solu.io/
